@@ -1,0 +1,14 @@
+C:\Users\Srikanth\Desktop\WebApi\Companies\bin\Debug\netcoreapp2.1\Companies.deps.json
+C:\Users\Srikanth\Desktop\WebApi\Companies\bin\Debug\netcoreapp2.1\Companies.runtimeconfig.json
+C:\Users\Srikanth\Desktop\WebApi\Companies\bin\Debug\netcoreapp2.1\Companies.runtimeconfig.dev.json
+C:\Users\Srikanth\Desktop\WebApi\Companies\bin\Debug\netcoreapp2.1\Companies.dll
+C:\Users\Srikanth\Desktop\WebApi\Companies\bin\Debug\netcoreapp2.1\Companies.pdb
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.csprojAssemblyReference.cache
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.csproj.CoreCompileInputs.cache
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.RazorAssemblyInfo.cache
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.RazorAssemblyInfo.cs
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.AssemblyInfoInputs.cache
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.AssemblyInfo.cs
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.RazorTargetAssemblyInfo.cache
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.dll
+C:\Users\Srikanth\Desktop\WebApi\Companies\obj\Debug\netcoreapp2.1\Companies.pdb
